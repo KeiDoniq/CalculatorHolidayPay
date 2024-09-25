@@ -9,5 +9,4 @@ class CalculatorHolidayPayApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
